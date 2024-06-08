@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Does this work?
 
 <!--
 **raylin01/raylin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://media.licdn.com/dms/image/C560BAQHUtx-OyWYEXg/company-logo_200_200/0/1630587995892/endevre_technologies_logo?e=2147483647&v=beta&t=GMuwFqk3e3_8MEWnbhKVJ8jw_iVGhVViYsy3xI8NIi0');]{x0000}$}
